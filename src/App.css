@@ -42,10 +42,9 @@ textarea::-webkit-input-placeholder{
 }
 #result{
   color:#35a6ff;
-  margin-top:-76px;
+  margin-top:-58px;
   font-size: 8vw;
   width:100vw;
-  font-size: bold;
   padding:0 10px;
   height:45vh;
 }
