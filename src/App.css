@@ -15,7 +15,6 @@
   font-size: 5vh;
   color:white;
   border:0;
-  -webkit-appearance:none;
 }
 textarea{
   background-color: #35a6fd;
@@ -25,6 +24,8 @@ textarea{
   padding:20px 10px;
   width:100vw;
   font-weight: bold;
+  border-radius:0;
+  border: 0;
 }
 textarea::-webkit-input-placeholder{
   color:#8bccff;
@@ -38,12 +39,12 @@ textarea::-webkit-input-placeholder{
   height:30vw;
   border-radius:50%;
   transform:translate(60vw,-20vw);
-  font-size: 8vw;
+  font-size: 7vw;
 }
 #result{
   color:#35a6ff;
   margin-top:-58px;
-  font-size: 8vw;
+  font-size: 7vw;
   width:100vw;
   padding:0 10px;
   height:45vh;
